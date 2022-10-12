@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariaGeorgieva
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS Development at @SoftUni
+- 🌱 I’m currently learning JS Web Development at @SoftUni
 
 - 📫 How to reach me m.georgieva17@icloud.com
 
